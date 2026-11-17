@@ -1,0 +1,22 @@
+# Build output
+atm
+atm.exe
+*.o
+*.obj
+*.exe
+*.ilk
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+out/
+x64/
+Debug/
+Release/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
